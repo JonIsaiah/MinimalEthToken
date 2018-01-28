@@ -78,7 +78,7 @@ contract TestCoin {
 
 
 
-//github.com/OpenZeplin, MIT license
+//https://github.com/OpenZeppelin/zeppelin-solidity, MIT license
 library SafeMath {
 
   function mul(uint256 a, uint256 b) internal pure returns (uint256) {
